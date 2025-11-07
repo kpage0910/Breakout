@@ -2,6 +2,8 @@
 
 A classic Breakout game implementation using Python and Pygame.
 
+![Breakout Demo](breakout.gif)
+
 ## Description
 
 Break all the bricks by bouncing a ball off your paddle. Different colored bricks award different points. Don't let the ball fall below the paddle or you'll lose a life!
