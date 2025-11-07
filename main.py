@@ -34,8 +34,8 @@ brick_colors = [(255, 0, 0), (255, 165, 0), (0, 255, 0), (255, 255, 0)]
 # Ball setup
 x_ball = 400 # Initial x position of the ball
 y_ball = 400 # Initial y position of the ball
-delta_x = 2.5 # Horizontal speed of the ball
-delta_y = 2.5 # Vertical speed of the ball
+delta_x = 3 # Horizontal speed of the ball
+delta_y = 3 # Vertical speed of the ball
 radius_ball = 5 # Radius of the ball
 ball_respawn_delay = 1000  # milliseconds
 
